@@ -10,6 +10,17 @@
         "db_online_win_amd64": "2f517912dcf9ac6c807d7a8521bf140e7e87a7d2b7f04b7b23d11d3c8177ec6b",
         "db_online_win_arm64": "26b4bada5e0cbb974ccb370bb7bd8a2d8b1a967b2afce61b1c420c24bd291dc1"
       }
+    },
+    "v1.9.33": {
+      "support": true,
+      "files": {
+        "db_online_linux_amd64": "7fa72069f1ccaabb15ab247fde97dce03a666ead290e6c1b72fcb38da554641d",
+        "db_online_linux_arm64": "5ff797db4c8885b1280b2ec097e699e1547aaa62b9ab7c61a41f53fb87e31b6f",
+        "db_online_darwin_amd64": "c6de9b26c5cec4c12bef704e18b233b8600221190e31706bd1704acee3e350e1",
+        "db_online_darwin_arm64": "4b636e53b1783f27ef8f5283048d3d00e50ac37197a9cbabfa96f7d04c9b595a",
+        "db_online_win_amd64": "5fa9b13e42319127dade68e558920c965c83e5d805bb6ab27a3706a780e61739",
+        "db_online_win_arm64": "212316543a28cab21b476ca42924d7494b4bb5d4cf5189b7509539da282ba9d3"
+      }
     }
   },
   "signature": null
