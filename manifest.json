@@ -1,0 +1,16 @@
+{
+  "releases": {
+    "v1.9.32": {
+      "support": true,
+      "files": {
+        "db_online_linux_amd64": "36360209e080c752deca6984484cf2871fa01173bc1028d01e3c3ec03a976aba",
+        "db_online_linux_arm64": "9e8c9bcae767d5d85dbaef2c704201359b08be5fec54986498f3a67796a10030",
+        "db_online_darwin_amd64": "4dca32d4ac78bd72b225cdc63f9e759e570f1ae9bdeba69acb1ded2cecd9ad71",
+        "db_online_darwin_arm64": "469d8a6c1a6b84179f68c23747a9d59505e24df881560cb7861bb87095abf5be",
+        "db_online_win_amd64": "2f517912dcf9ac6c807d7a8521bf140e7e87a7d2b7f04b7b23d11d3c8177ec6b",
+        "db_online_win_arm64": "26b4bada5e0cbb974ccb370bb7bd8a2d8b1a967b2afce61b1c420c24bd291dc1"
+      }
+    }
+  },
+  "signature": null
+}
