@@ -5,6 +5,11 @@
     "enabled": true 
   },
   { 
+    "url": "https://apidd.thucul.com", 
+    "name": "国内2", 
+    "enabled": true 
+  },
+  { 
     "url": "https://jdforrepam.com", 
     "name": "国外", 
     "enabled": true 
