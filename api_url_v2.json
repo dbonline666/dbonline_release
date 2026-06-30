@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "imageEndpoint": "https://tp.spfcas.com",
+  "apiEndpoints": [
+    {
+      "url": "https://apidd.czssdgz.com",
+      "name": "国内1",
+      "enabled": true
+    },
+    {
+      "url": "https://jdforrepam.com",
+      "name": "国外",
+      "enabled": true
+    },
+    {
+      "url": "https://apidd.spthgb.com",
+      "name": "国内3",
+      "enabled": true
+    }
+  ]
+}
